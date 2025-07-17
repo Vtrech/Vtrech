@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vtrech
-- ⚡ Fun fact: I love computer sicence, I love music, I love you
+- ⚡ Fun fact: I love computer sicence
 
 <!---
 Vtrech/Vtrech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
